@@ -4,7 +4,7 @@
   
   **Full-Stack Developer** | Building Enterprise Solutions for Retail & Financial Sectors
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metha-raengein)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/metha-raengein](https://www.linkedin.com/in/metha-raengein-3bb383372/))
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metharaengein@gmail.com)
   
 </div>
